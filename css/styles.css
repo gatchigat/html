@@ -1,0 +1,61 @@
+
+/*TAGS SELECTOR*/
+body {
+  background-color: #dddddd;
+}
+
+hr {
+  border-color: gray;
+  border-width: 6px;
+  border-style: none;
+  border-top-style: dotted;
+  height: 0px;
+  width: 3%;
+}
+h3 {
+  color: #276678;
+  font-family: fantasy;
+}
+h1 {
+  color: #1687a7;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a:hover{
+    color: #387c6d;
+    
+}
+tr {
+  font-family: cursive;
+}
+ul {
+  font-family: cursive;
+}
+ol {
+  font-family: cursive;
+}
+label {
+  font-family: cursive;
+}
+a {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #435560;
+}
+html {
+    margin
+  margin-right: 20%;
+  margin-left: 30%;
+}
+/*CLASS SELECTORS*/
+.contactlist{
+    color: #276678;
+}
+
+.theadCert {
+    color: #413c69;
+}
+.udemy1:hover{
+    float:right;
+    margin: 15px;
+    padding: 3px;
+}
