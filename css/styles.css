@@ -1,4 +1,9 @@
 /*TAGS SELECTOR*/
+
+.class{
+width: 900px; 
+	margin: 0 auto; 
+}
 body {
   background-color: #dddddd;
 }
