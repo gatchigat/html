@@ -1,27 +1,17 @@
-/*TAGS SELECTOR*/
 
-.class{
-width: 900px; 
-	margin: 0 auto; 
-}
+/*TAGS SELECTOR*/
 body {
   background-color: #dddddd;
 }
-hr {
-  border: dotted #eaf6f6 6px;
-  border-bottom: none;
-  width: 4%;
-  margin: 50x auto;
-}
 
-/* hr {
+hr {
   border-color: gray;
   border-width: 6px;
   border-style: none;
   border-top-style: dotted;
   height: 0px;
   width: 3%;
-} */
+}
 h3 {
   color: #276678;
   font-family: fantasy;
@@ -31,8 +21,9 @@ h1 {
   font-size: 30px;
   font-family: Arial, Helvetica, sans-serif;
 }
-a:hover {
-  color: #387c6d;
+a:hover{
+    color: #387c6d;
+
 }
 tr {
   font-family: cursive;
@@ -51,19 +42,20 @@ a {
   color: #435560;
 }
 html {
-  width: 50%;
-  margin: 0 auto;
+    margin
+  margin-right: 20%;
+  margin-left: 30%;
 }
 /*CLASS SELECTORS*/
-.contactlist {
-  color: #276678;
+.contactlist{
+    color: #276678;
 }
 
 .theadCert {
-  color: #413c69;
+    color: #413c69;
 }
-.udemy1:hover {
-  float: right;
-  margin: 15px;
-  padding: 3px;
-}
+/* .udemy1:hover{
+    float:right;
+    margin: 15px;
+    padding: 3px;
+}  */
